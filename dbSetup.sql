@@ -47,7 +47,7 @@ VALUES
 ( 'Software Developer', 'Idaho Power', 'BackEnd developer using C# and SQL, full time', 55000, true ),
 ( 'Dental Assistant', 'Paramount Family Dental', 'Fast paced dental office focused on relationships', 35000, true ),
 ( 'Store Greeter', 'Paulmart', 'Greet folks who want to shop', 18000, false),
-('SalesForce Developer', 'Zennify', 'Salesforce certificate will be provided', 59000, true );
+( 'SalesForce Developer', 'Zennify', 'Salesforce certificate will be provided', 59000, true );
 
 SELECT year FROM houses;
 
